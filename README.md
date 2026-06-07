@@ -344,12 +344,11 @@ Through this project I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Sri Ram**
+**THAMAGONDA LOHIT KUMAR**
 
-GitHub: https://github.com/Sriram-1704
+GitHub: https://github.com/Lohitlokesh
 
 Project Repository:
-https://github.com/Sriram-1704/Retail-Store-Analytics-Project
-
+https://github.com/Lohitlokesh/Retail-Store-Analytics-Project
 ---
 
