@@ -291,7 +291,7 @@ Top States by Sales:
 Add your dashboard screenshot here:
 
 ```markdown
-![Dashboard](Dashboard_Screenshot/dashboard.png)
+![Dashboard](Dashboard/Screenshot 2026-06-05 162856.png)
 ```
 
 ---
